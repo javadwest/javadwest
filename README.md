@@ -7,4 +7,4 @@
 <!---
 javadwest/javadwest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> Hi,i'm javad and i interested in android so i'm currently learning kotlin
